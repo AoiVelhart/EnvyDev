@@ -8,7 +8,7 @@ Hi! I'm **Envy**, a passionate Discord bot developer focused on building powerfu
 
 ## 🚀 Featured Project: Shiroko
 
-**Shiroko** is an all-in-one Discord bot inspired by Wick, Lawliet, Dank Memer, and others — designed for server protection, engagement, and automation.
+**Shiroko** is an all-in-one Discord bot — designed for server protection, engagement, and automation.
 
 ### ✨ Features
 
@@ -17,7 +17,7 @@ Hi! I'm **Envy**, a passionate Discord bot developer focused on building powerfu
 - 🗣️ AI Chat & Text-to-Speech  
 - 📜 Quote Logging and Utility Features  
 
-🔗 [View Shiroko on GitHub](https://github.com/Aoivelhart/shiroko)
+🔗 [View Shiroko on GitHub](https://github.com/Aoivelhart)
 
 ## 🖤 Portfolio
 
